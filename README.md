@@ -6,10 +6,11 @@
 
 ![demo](./docs/assets/demo.gif)
 
-## 技術
+## 技術與工具
 
 - react.js (CRA)
 - react-query
+- unsplash
 
 ## 執行
 
